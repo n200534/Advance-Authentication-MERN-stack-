@@ -55,4 +55,5 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
-Special thanks to [Library/Author Name] for the [specific library/feature] used in this project.
+Author:Amavarapu Akshay Kumar
+ra
