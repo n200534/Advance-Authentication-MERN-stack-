@@ -14,7 +14,7 @@ app.use(cors({credentials:true,origin:'http://localhost:3000'}));
 app.use(cors());
 app.use(cookieParser());
 app.use('/api',router)
-mongoose.connect("mongodb+srv://amavarapuakshaykumar:FzqP7r7X2HDAotJg@cluster0.04hiju4.mongodb.net/users?retryWrites=true&w=majority/").then(()=>{
+mongoose.connect("Monog URL").then(()=>{
     console.log("Database coneccted")
 }).catch((err)=>{
     console.log("error in connecting to the database")
